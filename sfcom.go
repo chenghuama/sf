@@ -24,6 +24,7 @@ var (
 )
 
 const (
+	version                           = "0.1"
 	ConstService_OrderService         = "OrderService"         //下订单
 	ConstService_OrderConfirmService  = "OrderConfirmService"  //订单发货确认
 	ConstService_OrderReverseService  = "OrderReverseService"  //下退货订单（含筛选）
